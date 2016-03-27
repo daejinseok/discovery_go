@@ -1,0 +1,677 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Chan",
+				"ChangeUserPassword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/c/work.go/src/github.com/daejinseok/golang/hanoi/hanoi.go",
+			"settings":
+			{
+				"buffer_size": 287,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hanoi/hanoi.go",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/c/work.go/src/github.com/daejinseok/golang/m.go",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "package main \n\nimport ( \n	\"fmt\"\n	\"github.com/daejinseok/golang/hanoi\" \n)\n\nfunc main(){\n	hanoi.Move(3,1,2)\n}",
+			"file": "/c/work.go/src/github.com/daejinseok/golang/hanoi/m.go",
+			"file_size": 116,
+			"file_write_time": 131034654030861377,
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				":q"
+			],
+			[
+				"packconre",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				":run",
+				"GoSublime: Run build command"
+			],
+			[
+				"packconin",
+				"Package Control: Install Package"
+			],
+			[
+				"usr",
+				"Preferences: Settings - User"
+			],
+			[
+				"paconre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packcon",
+				"Package Control: List Packages"
+			],
+			[
+				"openre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"paconrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packconl",
+				"Package Control: List Packages"
+			],
+			[
+				"run",
+				"GoSublime: Run Tests"
+			],
+			[
+				"gorun",
+				"GoSublime: Run Tests"
+			],
+			[
+				"impor",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pacconre",
+				"Package Control: Remove Package"
+			],
+			[
+				"puser",
+				"Preferences: Settings - User"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdwone",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"parkinst",
+				"Package Control: Install Package"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"pro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcin",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pose",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"packcin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"2560/2",
+			"70650/4",
+			"49*150 + 69*300 + 14*2250 + 6*3000 + 20000 + 33000",
+			"sublime.log_commands(True)",
+			"sublime.log_comands(True)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/T/Github/sublime_text_tip"
+	],
+	"file_history":
+	[
+		"/C/work.go/src/github.com/daejinseok/golang/hanoi/hanoi_test.go",
+		"/c/work.go/src/github.com/daejinseok/golang/hanoi/main.go",
+		"/c/work.go/src/github.com/daejinseok/golang/hanoi/hanoi.go",
+		"/C/work.go/src/github.com/daejinseok/golang/hanoi/hanoi.go",
+		"/C/bin/app/Sublime3/Data/Packages/GoSublime/USAGE.md",
+		"/c/work.go/src/github.com/daejinseok/gogo/a_tour_of_go/slicing_slices.go",
+		"/c/bin/app/Sublime3/Data/Packages/User/Preferences.sublime-settings",
+		"/c/work.go/src/github.com/daejinseok/gogo/a_tour_of_go/slices.go",
+		"/c/bin/app/Sublime3/Data/Packages/Theme - Default/Default.sublime-theme",
+		"/c/bin/app/Sublime3/Data/Packages/GoSublime/CHANGELOG.md",
+		"/c/work.go/src/github.com/daejinseok/gogo/foo/foo.go",
+		"/c/work.go/src/github.com/daejinseok/gogo/hanoi/hanoi.go",
+		"/C/workspace/hajiboot/hajiboot/src/main/java/com/example/App.java",
+		"/C/bin/app/vim/vimrc",
+		"/C/bin/app/ConEmu/doskey.mac",
+		"/C/work.java/08.springboot/mvn_init.bat",
+		"/C/bin/app/ConEmu/ConEmu/DJInit.cmd",
+		"/c/work.java/08.springboot/djboot/src/main/java/com/example/App.java",
+		"/c/work.java/08.springboot/djboot/pom.xml",
+		"/c/work.java/08.springboot/djboot/mvm_dep.bat",
+		"/C/eGovFrame-3.5.1/workspace.edu/lab102-code-generation-tutor/DATABASE/db/hsqlmanager.cmd",
+		"/C/eGovFrame-3.5.1/workspace.edu/lab102-code-generation-tutor/DATABASE/db.script",
+		"/C/work.java/08.springboot/djboot/pom.xml",
+		"/C/Users/daejin/Downloads/dj_20151010_001/t/bank_20140203.txt",
+		"/C/Users/daejin/Downloads/dj_20151010_001/t/Money_20100922.txt",
+		"/C/daejin/todo/20151209_001_공시송달/diff/hsInterSb.insDocIssueDesc.java",
+		"/C/daejin/todo/20151209_001_공시송달/01.분석.md",
+		"/C/bin/app/sonarqube-5.2/conf/wrapper.conf",
+		"/C/sonar-runner-2.4/bin/sonar-runner.bat",
+		"/C/sctAst/workspace/wpt/WPTJava/.sonarsource.properties",
+		"/C/bin/app/iGo/user.cmds",
+		"/C/bin/app/iGo/igo.cmds",
+		"/C/bin/app/iGo/igo.settings",
+		"/C/bin/app/iGo/igo.exe.config",
+		"/C/bin/app/sonarqube-5.2/bin/windows-x86-64/StartSonar.bat",
+		"/C/bin/app/ideaIU/bin/idea64.exe.vmoptions",
+		"/C/Users/daejin/Downloads/dj_20151010_001/t/PW.txt",
+		"/C/work.java/02.bin/ideaIU-14.1.4/bin/idea64.exe.vmoptions",
+		"/C/work/js/m2m/m2m.js",
+		"/C/Users/daejin/Downloads/AppleBcUpdate/BootCamp/Bootcamp.xml",
+		"/C/work.upload/Velocity.txt",
+		"/C/work.js/email_chk.js",
+		"/C/work.js/fa.js",
+		"/C/work.java/07.js_core/js-core-share/nb-configuration.xml",
+		"/C/work.java/07.js_core/js-core-share/README.txt",
+		"/C/work.java/07.js_core/js-core-share/pom.xml",
+		"/C/work.java/07.js_core/js-core-share/src/test/java/com/madhusudhan/jscore/AppTest.java",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 07/Eclipse/Address-Book/web/WEB-INF/web.xml",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 07/Eclipse/Address-Book/pom.xml",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 12/Eclipse/Spring-Java-Config/pom.xml",
+		"/C/work.java/07.js_core/js-core-share/code/js-core/README.txt",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 07/Eclipse/Address-Book/web/WEB-INF/jsp/base.jspf",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 07/Eclipse/Address-Book/.classpath",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 07/Eclipse/Address-Book/.project",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 07/Eclipse/Address-Book/web/index.jsp",
+		"/C/bin/app/Sublime3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/work.java/03.workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/helloworld/org/apache/jsp/gibberish_jsp.java",
+		"/C/work.java/03.workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/helloworld_jsp/Hello.jsp",
+		"/C/work.java/03.workspace/helloworld_jsp/WebContent/Hello.jsp",
+		"/C/work.java/02.bin/apache-tomcat-8.0.28/webapps/docs/appdev/sample/src/mypackage/Hello.java",
+		"/C/work.java/02.bin/apache-tomcat-8.0.28/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java",
+		"/C/work.java/02.bin/apache-tomcat-8.0.28/work/Catalina/localhost/manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.java",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 03/Eclipse/Hello-User/web/WEB-INF/web.xml",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 03/Eclipse/Hello-User/source/production/java/com/wrox/HelloServlet.java",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 02/Sample-Debug-Eclipse/.settings/.jsdtscope",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 02/Sample-Debug-Eclipse/.settings/org.eclipse.jdt.core.prefs",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 02/Sample-Debug-Eclipse/.settings/org.eclipse.ltk.core.refactoring.prefs",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 02/Sample-Debug-Eclipse/.settings/org.eclipse.wst.common.component",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 03/Eclipse/Hello-World/.project",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 02/Sample-Debug-Eclipse/.project",
+		"/C/work.java/01.package/projavaforwebapps-master/Chapter 02/Sample-Debug-Eclipse/.classpath",
+		"/C/work.java/02.bin/apache-tomcat-8.0.28/conf/tomcat-users.xml",
+		"/c/work.java/02.bin/apache-tomcat-8.0.28/conf/web.xml",
+		"/c/work.java/02.bin/apache-tomcat-8.0.28/bin/digest.bat",
+		"/c/work.java/02.bin/apache-tomcat-8.0.28/bin/shutdown.bat",
+		"/c/work.java/02.bin/apache-tomcat-8.0.28/bin/startup.bat",
+		"/c/work.java/02.bin/apache-tomcat-8.0.28/bin/catalina.bat",
+		"/C/work.java/02.bin/apache-tomcat-8.0.28/RELEASE-NOTES",
+		"/C/work.java/02.bin/apache-tomcat-8.0.28/NOTICE",
+		"/C/Backup/JetBrain/WebStorm-10.0.4.txt",
+		"/C/Users/daejin/Downloads/cloud-drive",
+		"/C/Users/daejin/Downloads/recook_script/recook.ScanTailor",
+		"/C/work.scan/JAVP/working/note.txt",
+		"/C/work/ideaU/key.txt",
+		"/C/eGovFrame-3.5.1/bin/mysql-5.6.21/startup.bat",
+		"/C/work.scan/NETO/working/note.txt",
+		"/C/Users/daejin/AppData/Local/Temp/_tc/META-INF/spring/security/security-config.xml",
+		"/C/spring/bin/eclipse/eclipse.ini",
+		"/C/spring/bookexample/DB/database.sql",
+		"/C/work.spring/readme.txt",
+		"/C/work.mvn/myfirst/src/main/java/net/daejin/App.java",
+		"/C/work.mvn/myfirst/src/test/java/net/daejin/AppTest.java",
+		"/C/work.mvn/myfirst/pom.xml",
+		"/C/bin/app/apache-maven-3.3.3/conf/settings.xml",
+		"/C/work.spring/DB/database.sql",
+		"/C/eGovFrameDev-3.5.1-64bit/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/djweb/WEB-INF/classes/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml",
+		"/C/eGovFrameDev-3.5.1-64bit/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/djweb/WEB-INF/classes/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml",
+		"/C/eGovFrameDev-3.5.1-64bit/mysql-5.1.72-winx64/scripts/mysql_config.pl",
+		"/C/eGovFrameDev-3.5.1-64bit/workspace/djweb/src/main/webapp/WEB-INF/jsp/egovframework/example/cmmn/egovError.jsp",
+		"/C/eGovFrameDev-3.5.1-64bit/eclipse/eclipse.ini",
+		"/C/eGovFrameDev-3.5.1-64bit/workspace/djweb/src/main/webapp/WEB-INF/jsp/egovframework/example/cmmn/egovBizException.jsp",
+		"/C/Users/daejin/AppData/Local/atom/app-1.2.0-beta2/resources/app/apm/templates/theme/styles/colors.less",
+		"/C/work/emeditor/asar/node_modules/atom-dark-ui/index.less",
+		"/C/Users/daejin/AppData/Local/atom/app-1.2.0-beta1/resources/app/apm/templates/theme/styles/base.less",
+		"/C/work.scan/CSS3/CSS3_Memo.md",
+		"/C/work.scan/DOMC/note.md",
+		"/C/work.scan/JSCC/working/note.md",
+		"/C/work.scan/JSCC/working/JSCC_v1.ScanTailor",
+		"/C/Github/fun_prog/ch2/ch3_3_dynamic_scoping.js",
+		"/C/Github/fun_prog/ch2/a.js",
+		"/C/Github/fun_prog/ch2/test_each.js",
+		"/C/bin/app/Sublime3/Data/Packages/User/node.sublime-build",
+		"/C/daejin/x/classic/일보신권 21/Binder1.txt",
+		"/C/bin/app/Sublime3/Packages/HTML/Miscellaneous.tmPreferences",
+		"/C/Github/medium/Scope/3dev.html",
+		"/C/Github/medium/Scope/syntax.html",
+		"/C/work/sublime_package/Default.sublime-package/Default.sublime-commands",
+		"/C/Github/medium/Scope/Color Scheme - Default/Monokai.tmTheme",
+		"/C/bin/app/Sublime3/Packages/HTML/HTML.sublime-syntax",
+		"/C/bin/app/Sublime3/Packages/HTML.sublime-package",
+		"/C/Github/fun_prog/ch2/node_modules/underscore/underscore.js",
+		"/C/Github/medium",
+		"/C/bin/app/nodejs/node_modules/npm/lib/ls.js",
+		"/C/bin/app/nodejs/node_modules/npm/node_modules/fstream/fstream.js",
+		"/C/work/imap001/linklist.js",
+		"/C/work/imap001/main.js",
+		"/C/Users/daejin/AppData/Local/Temp/_tc/JavaScript.sublime-syntax",
+		"/C/Users/daejin/Downloads/nginx-1.9.5/html/3-03.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"c:\\work\\sublime_package\\Default.sublime-package",
+			"c:\\work\\sublime_package\\Default.sublime-package\\*",
+			"c:\\work\\sublime_package\\Default.sublime-package\\*.*",
+			"<current file>",
+			"c:\\work\\sublime_package\\Default.sublime-package\\*.*",
+			"c:\\work\\sublime_package\\Default.sublime-package\\*",
+			"c:\\bin\\app\\ConEmu\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jstl",
+			"EgovReloadableFilterInvocationSecurityMetadataSource",
+			"tag-stuff",
+			"show_scope_name",
+			"scope",
+			"ctrl+alt+shift+p",
+			"tag",
+			"identit",
+			"ident",
+			"identify",
+			"ConEmuGitPath",
+			"gitbran",
+			":gitbranch",
+			"gitbranch",
+			":EOF",
+			"close",
+			"SysWow64",
+			"directw",
+			"directwirte",
+			"daejin",
+			"filename",
+			"askldfj",
+			"seok",
+			"askldfj",
+			"ask",
+			"askldfj",
+			"asaklsdjfakl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/c/work.go/src/github.com/daejinseok/golang/hanoi/hanoi.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hanoi/hanoi.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/c/work.go/src/github.com/daejinseok/golang/m.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/c/work.go/src/github.com/daejinseok/golang/hanoi/m.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.9o://c:\\work.go\\src\\github.com\\daejinseok\\gogo\\a_tour_of_go":
+	{
+		"height": 122.0
+	},
+	"output.9o://c:\\work.go\\src\\github.com\\daejinseok\\gogo\\foo":
+	{
+		"height": 251.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 124.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"output.mde":
+	{
+		"height": 355.0
+	},
+	"pinned_build_system": "",
+	"project": "discovery_go.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
